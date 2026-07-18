@@ -1,24 +1,23 @@
-# Compiled class files / build output
-*.class
+# Build output
 build/
-out/
-target/
 
-# IDE files
-.idea/
-*.iml
+# Java compiled files
+*.class
+
+# Log files
+*.log
+
+# VS Code
 .vscode/
-.classpath
+
+# IntelliJ
+.idea/
+
+# Eclipse
 .project
+.classpath
 .settings/
 
 # OS files
 .DS_Store
 Thumbs.db
-
-# Runtime logs (commit a sample manually to outputs/ instead)
-logs/*.txt
-
-# Future secrets (if you add DB/auth later)
-.env
-*.env
