@@ -1,7 +1,0 @@
-[2026-07-18 14:32:12] SERVER STARTED on port 5000
-[2026-07-18 14:32:44] [14:32:44] *** Al has joined the chat ***
-[2026-07-18 14:33:07] [14:33:07] *** sam has joined the chat ***
-[2026-07-18 14:33:10] [14:33:10] sam: hii
-[2026-07-18 14:33:58] [14:33:58] SERVER: is now known as Ali
-[2026-07-18 14:34:23] [14:34:23] Ali: /wsam hey
-[2026-07-18 14:34:48] [PRIVATE] [14:34:48] (private) Ali: heyy
