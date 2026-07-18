@@ -307,6 +307,14 @@ and structuring a multi-package Java project for real-world readability.
 
 Built by Sam as a GTU Java course project and GitHub portfolio piece.
 
+## 14. Screenshot
+<img width="1580" height="916" alt="gui-chat png" src="https://github.com/user-attachments/assets/31849761-3ce8-473a-bc79-b4949299ae86" />
+<img width="953" height="863" alt="logschat_log txt" src="https://github.com/user-attachments/assets/6c10faa0-556b-4246-905c-36c133ab2fe5" />
+<img width="922" height="451" alt="server-running png" src="https://github.com/user-attachments/assets/419523a1-1e2a-4ac1-bc10-36a5f34b7d2b" />
+<img width="952" height="402" alt="client1-connected png" src="https://github.com/user-attachments/assets/f1edadbb-10a3-4f13-8d58-cce2bb12faed" />
+<img width="955" height="396" alt="client2-connected png" src="https://github.com/user-attachments/assets/94bf8150-c2e1-4f3d-811c-7b12548fec07" />
+
+
 ---
 
 See `docs/` for the testing strategy, GitHub upload plan, screenshot
