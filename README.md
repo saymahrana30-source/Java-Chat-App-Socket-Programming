@@ -113,7 +113,8 @@ required — everything runs on `localhost`.
 
 ## 5. Architecture
 
-**Input:** username, chat text, `/w user msg` (private message), `/list`, `/quit`
+**Input:** username, chat text, `/w user msg` (private message), `/list`,
+`/nick newname`, `/help`, `/quit`
 
 **Processing:** server accepts a connection → spawns a `ClientHandler`
 thread → reads lines from that client → broadcasts / routes them →
@@ -187,6 +188,8 @@ Java-Chat-App-Socket-Programming/
 - Graceful disconnect (`/quit`) and handling of sudden disconnects
 - Private messaging (`/w <username> <message>`)
 - Online user list (`/list`)
+- Change username on the fly (`/nick <newname>`)
+- In-chat command help (`/help`)
 - Timestamped chat history logging to `logs/chat_log.txt`
 - Robust exception handling (bad ports, dropped connections, etc.)
 - Optional Swing GUI client
