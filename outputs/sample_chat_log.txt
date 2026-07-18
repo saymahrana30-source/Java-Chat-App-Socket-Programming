@@ -1,0 +1,11 @@
+[2026-07-18 12:04:01] SERVER STARTED on port 5000
+[2026-07-18 12:04:22] [12:04:22] *** Sam has joined the chat ***
+[2026-07-18 12:04:35] [12:04:35] *** Riya has joined the chat ***
+[2026-07-18 12:04:41] [12:04:41] Sam: hey riya, welcome!
+[2026-07-18 12:04:48] [12:04:48] Riya: thanks Sam! testing the chat now
+[2026-07-18 12:05:02] [PRIVATE] [12:05:02] (private) Riya: hey just you, quick question
+[2026-07-18 12:05:10] [12:05:10] *** Dev has joined the chat ***
+[2026-07-18 12:05:15] [12:05:15] Dev: hello everyone
+[2026-07-18 12:06:40] [12:06:40] *** Riya has left the chat ***
+[2026-07-18 12:07:12] [12:07:12] *** Sam has left the chat ***
+[2026-07-18 12:07:20] [12:07:20] *** Dev has left the chat ***

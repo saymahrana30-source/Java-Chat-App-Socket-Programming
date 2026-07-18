@@ -1,0 +1,24 @@
+# Compiled class files / build output
+*.class
+build/
+out/
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Runtime logs (commit a sample manually to outputs/ instead)
+logs/*.txt
+
+# Future secrets (if you add DB/auth later)
+.env
+*.env
